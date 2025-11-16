@@ -8,7 +8,7 @@
       "value": "<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> (manipulate)</p><hr /><p>Pulled from the internal reserves of a nodocite experimenter and concentrated into a more potent form, this poison causes intense dizziness in those infected, which in turn induces clumsiness and fatigue.</p><p><strong>Saving Throw</strong> @Check[fortitude|dc:15]</p><p><strong>Maximum Duration</strong> 6 rounds</p><p><strong>Stage 1</strong> @Damage[1d4[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} (1 round)</p><p><strong>Stage 2</strong> @Damage[1d6[poison]] damage and clumsy 1 (1 round)</p><p><strong>Stage 3</strong> @Damage[1d6[poison]] damage, clumsy 1, and @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued} (1 round)</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "dizzying-anesthetic",
     "_migration": {
       "version": 0.948,
       "lastMigration": null
@@ -78,8 +78,8 @@
     "usage": {
       "value": "held-in-two-hands"
     },
-    "stackGroup": null,
-    "spell": null
+    "spell": null,
+    "stackGroup": null
   },
   "img": "modules/sf2e-anachronism/art/icons/equipment/other/yellow-containment-vessel.webp",
   "folder": "vjGH08dH7r9NHPZj",
@@ -94,7 +94,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.4"
+    "systemVersion": "7.7.3"
   },
   "_id": "w1WaRSchtEsQbhim",
   "sort": 0,

@@ -8,7 +8,7 @@
       "value": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> (manipulate)</p><hr /><p>When you inject this serum, magitech nanites infuse your body with machine-like circuitry that pulses and glows beneath your skin. For 1 hour, you gain a +3 item bonus to saving throws against mental effects. You also gain resistance 15 to mental damage. Due to your more machine-like nature, you gain weakness 15 to electricity.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "machine-mind-serum-advanced",
     "_migration": {
       "version": 0.948,
       "lastMigration": null
@@ -77,8 +77,8 @@
     "usage": {
       "value": "held-in-one-hand"
     },
-    "stackGroup": null,
-    "spell": null
+    "spell": null,
+    "stackGroup": null
   },
   "_id": "HxHlEHM9F9AH36sI",
   "img": "modules/sf2e-anachronism/art/icons/equipment/other/syringe.webp",
@@ -95,7 +95,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.4"
+    "systemVersion": "7.7.3"
   },
   "_key": "!items!HxHlEHM9F9AH36sI"
 }

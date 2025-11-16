@@ -16,7 +16,7 @@
         "type": "item"
       }
     ],
-    "slug": null,
+    "slug": "shredskin-advanced",
     "_migration": {
       "version": 0.943,
       "lastMigration": null
@@ -91,9 +91,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.348",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.5.1"
+    "systemVersion": "7.7.3"
   },
   "_id": "SGdVaPZmhell8gsV",
   "sort": 0,

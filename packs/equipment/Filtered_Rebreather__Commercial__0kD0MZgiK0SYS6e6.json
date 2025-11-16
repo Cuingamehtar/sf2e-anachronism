@@ -8,7 +8,7 @@
       "value": "<p>This armor upgrade supplements your armor's environmental protections and filters out common contaminants, including protection from most toxic atmospheres.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "filtered-rebreather-commercial",
     "_migration": {
       "version": 0.942,
       "lastMigration": null
@@ -86,9 +86,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.347",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.3.1"
+    "systemVersion": "7.7.3"
   },
   "_id": "0kD0MZgiK0SYS6e6",
   "sort": 500000,

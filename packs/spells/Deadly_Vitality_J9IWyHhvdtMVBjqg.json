@@ -9,7 +9,7 @@
       "value": "<p>You reach out across the strands of the universe and strangle the root of life that might flow into a living creature, cursing them to suffer for every bit of vitality they recover. If the target creature would receive any form of healing while under the effects of this spell, they afterward take damage from <em>deadly vitality</em>, potentially canceling out any healing they might have just received. This damage is dependent on the results of the creature's saving throw, made when the spell is first cast.</p><hr /><p><strong>Critical Success</strong> The creature is unaffected.</p><p><strong>Success</strong> The creature takes an amount of void damage equal to half the amount of healing they just received (rounded down), to a maximum of 5 damage.</p><p><strong>Failure</strong> The creature takes an amount of void damage equal to the amount of healing they just received, to a maximum of 10 damage.</p><p><strong>Critical Failure</strong> The creatures takes an amount of void damage equal to the amount of healing they just received, to a maximum of 20 damage.</p><hr /><p><strong>Heightened (+2)</strong> Increase the amount of damage dealt by this spell's success condition by 5, its failure condition by 10, and its critical failure condition by 20.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "deadly-vitality",
     "_migration": {
       "version": 0.943,
       "lastMigration": null
@@ -78,9 +78,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.348",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.5.1"
+    "systemVersion": "7.7.3"
   },
   "_id": "J9IWyHhvdtMVBjqg",
   "sort": 1100000,

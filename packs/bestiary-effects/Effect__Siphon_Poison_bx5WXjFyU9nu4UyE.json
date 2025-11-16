@@ -33,7 +33,7 @@
         "value": 6
       }
     ],
-    "slug": null,
+    "slug": "effect-siphon-poison",
     "traits": {
       "otherTags": [],
       "value": []
@@ -71,7 +71,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.2"
+    "systemVersion": "7.7.3"
   },
   "_id": "bx5WXjFyU9nu4UyE",
   "sort": 1600000,

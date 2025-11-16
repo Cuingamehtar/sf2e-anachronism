@@ -8,7 +8,7 @@
       "value": "<p>This sleek rifle converts energy into projectiles of concentrated magic that tears apart matter by destroying its bindings to the reality. A reality ripper is modular and has two modes: destructive and reaping. While in destructive mode, the reality ripper deals acid damage and gains the razing trait. While in reaping mode, a reality ripper deals void damage and gains the concussive trait.</p><p>A realty ripper's minimum weapon improvement is tactical, meaning its tracking +1 cannot be removed, though further improvements can be still applied.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "commercial-reality-ripper",
     "_migration": {
       "version": 0.94,
       "lastMigration": null
@@ -94,9 +94,11 @@
     },
     "range": 40,
     "expend": 2,
+    "ammo": null,
     "reload": {
       "value": "1"
     },
+    "grade": null,
     "runes": {
       "potency": 0,
       "striking": 0,
@@ -116,9 +118,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.346",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.2.3"
+    "systemVersion": "7.7.3"
   },
   "_id": "KnGzQ30kkhYPxABY",
   "sort": 0,

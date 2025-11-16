@@ -9,7 +9,7 @@
       "value": "<p>Developed and patented by Eoxian medical conglomerate Nulife, this magenta tincture's metallic odor is reminiscent of fresh blood. When applied to the body of a creature that can benefit from void healing, marrow paste grants fast healing 10 for 1 minute.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "marrow-paste-superior",
     "_migration": {
       "version": 0.943,
       "lastMigration": null
@@ -79,8 +79,8 @@
     "usage": {
       "value": "held-in-one-hand"
     },
-    "stackGroup": null,
-    "spell": null
+    "spell": null,
+    "stackGroup": null
   },
   "img": "modules/sf2e-anachronism/art/icons/equipment/other/green-pouch.webp",
   "ownership": {
@@ -92,9 +92,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.348",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.5.1"
+    "systemVersion": "7.7.3"
   },
   "_id": "oVIp7s2QLj99b7qJ",
   "sort": 0,

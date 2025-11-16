@@ -106,7 +106,7 @@
         ]
       }
     ],
-    "slug": null,
+    "slug": "effect-seep-in",
     "traits": {
       "otherTags": [],
       "value": []
@@ -147,7 +147,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.2"
+    "systemVersion": "7.7.3"
   },
   "_key": "!items!QsTiJFodHt7RsfYh"
 }

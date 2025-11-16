@@ -9,7 +9,7 @@
       "value": "<p>You're a corporate consultant who's been hired for your expertise in the field. You might be a former employee of Ulrikka Clanholdings or someone who's hoping to climb the ladder at AbadarCorp—or maybe you're a famous influencer who lied on their résumé to get the job.</p><p>Choose two attribute boosts. One must be to <strong>Intelligence</strong> or <strong>Wisdom</strong>, and one is a free attribute boost.</p><p>You're trained in the Computers skill and either the Infosphere or Media Lore skill. You gain the @UUID[Compendium.sf2e-anachronism.feats.Item.ifQiKhl0Gt2CM7i9]{Phreaker} skill feat.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "consultant",
     "_migration": {
       "version": 0.943,
       "lastMigration": null
@@ -70,9 +70,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.348",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.5.1"
+    "systemVersion": "7.7.3"
   },
   "_key": "!items!MAGiShfLHQ6q2Xml"
 }

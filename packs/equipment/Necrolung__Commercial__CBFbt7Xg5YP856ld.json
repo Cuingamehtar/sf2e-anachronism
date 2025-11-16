@@ -9,7 +9,7 @@
       "value": "<p>Spongy black webbing radiates from a grayish purple mass of necrotized flesh that pulses when it's exposed to air. Specially grown in vats from waste produced in the necrograft manufacturing process, necrolungs allow living creatures to breathe efficiently and safely on Eox, becoming effectively immune to the toxins in its atmosphere for an additional 24 hours.</p><p>Installing a necrolung takes one minute and requires no skill checks. When installed, a necrolung slithers down your throat (or appropriate alien anatomy) and integrates into your respiratory system. Most users notice a harmless pallor and rotting smell while using the tech.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "necrolung-commercial",
     "_migration": {
       "version": 0.95,
       "lastMigration": null
@@ -86,7 +86,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.4"
+    "systemVersion": "7.7.3"
   },
   "_key": "!items!CBFbt7Xg5YP856ld"
 }

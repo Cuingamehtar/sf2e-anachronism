@@ -40,7 +40,7 @@
         "selector": "darkvision"
       }
     ],
-    "slug": null,
+    "slug": "corpsefolk",
     "traits": {
       "otherTags": [],
       "value": [
@@ -64,7 +64,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.4"
+    "systemVersion": "7.7.3"
   },
   "_id": "iCOQI4pXzO98wnE1",
   "sort": 200000,

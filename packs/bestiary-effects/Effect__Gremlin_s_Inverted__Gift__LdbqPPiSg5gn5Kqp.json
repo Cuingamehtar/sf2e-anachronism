@@ -36,7 +36,7 @@
         "type": "status"
       }
     ],
-    "slug": null,
+    "slug": "effect-gremlins-inverted-gift",
     "traits": {
       "otherTags": [],
       "value": []
@@ -75,7 +75,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.2"
+    "systemVersion": "7.7.3"
   },
   "_id": "LdbqPPiSg5gn5Kqp",
   "sort": 0,

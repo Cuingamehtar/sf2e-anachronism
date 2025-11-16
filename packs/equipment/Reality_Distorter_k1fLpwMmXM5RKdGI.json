@@ -8,7 +8,7 @@
       "value": "<p>This device emits ripples of energy creating small distortions within reality around your foes.</p><p><strong>Activate—Distort!</strong> <span class=\"pf2-icon\">r</span></p><p><strong>Frequency</strong> once per 10 minutes</p><p><strong>Trigger</strong> A creature moves adjacent to you</p><hr /><p><strong>Effect</strong> Your armor unleashes a bubble of distorted reality keyed to the quantum signature of the triggering creature in a @Template[type:burst|distance:10] centered on you that lasts 1 minute. The triggering creature treats the area as difficult terrain.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "reality-distorter",
     "_migration": {
       "version": 0.943,
       "lastMigration": null
@@ -87,9 +87,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.348",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.5.1"
+    "systemVersion": "7.7.3"
   },
   "_id": "k1fLpwMmXM5RKdGI",
   "sort": 0,

@@ -8,7 +8,7 @@
       "value": "<p>The latest innovation from Frozen Trove Labs is a tactical flashlight with special filters which can be activated to locate hidden objects.</p><p><strong>Activate—Enhancement Filter</strong> <span class=\"pf2-icon\">1</span> (manipulate)</p><p><strong>Frequency</strong> once per day</p><hr /><p><strong>Effect</strong> All creatures gain a +1 item bonus to Perception checks to locate hidden things in the area of the dragonsight flashlight's light, such as hidden traps and secret doors, for 30 minutes.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "dragonsight-flashlight",
     "_migration": {
       "version": 0.942,
       "lastMigration": null
@@ -86,9 +86,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.348",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.4.3"
+    "systemVersion": "7.7.3"
   },
   "_id": "p9INuxluZEUJvoAv",
   "sort": 900000,

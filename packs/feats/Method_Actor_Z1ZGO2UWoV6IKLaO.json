@@ -37,7 +37,7 @@
         "selector": "deception"
       }
     ],
-    "slug": null,
+    "slug": "method-actor",
     "_migration": {
       "version": 0.943,
       "previous": {
@@ -78,7 +78,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.4"
+    "systemVersion": "7.7.3"
   },
   "_key": "!items!Z1ZGO2UWoV6IKLaO"
 }

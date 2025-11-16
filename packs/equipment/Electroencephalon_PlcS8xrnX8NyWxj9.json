@@ -9,7 +9,7 @@
       "value": "<p>This magical matrix records the consciousness, thoughts, and soul of a necrovite and also grants a limited form of telepathy. Such augmented psychic awareness is key to the process of preserving a necrovite's memories when their body is destroyed, including memories of whatever caused their destruction.</p><hr /><p>When a necrovite is destroyed, <em>electroencephalon</em> begins rebuilding their their physical form over the next 1d10 days. Not even disintegrating a necrovite's corpse can fully destroy the creature. The necrovite's new body manifests next to the electroencephalon, fully healed but without any equipment from their old body.</p><p>A standard electroencephalon is a piece of complex magitech about the size of a comm unit that has been constructed via occult means. This device typically has Hardness 10 and 40 HP.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "electroencephalon",
     "_migration": {
       "version": 0.946,
       "lastMigration": null,
@@ -93,7 +93,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.2"
+    "systemVersion": "7.7.3"
   },
   "_id": "PlcS8xrnX8NyWxj9",
   "sort": 0,

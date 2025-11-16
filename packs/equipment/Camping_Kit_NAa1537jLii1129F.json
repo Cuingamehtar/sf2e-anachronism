@@ -8,7 +8,7 @@
       "value": "<p>A camping kit contains a weatherproof tent for four Medium or two Large creatures, bedrolls, a fire igniter, 1 week of rations, and a survival knife.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "camping-kit",
     "_migration": {
       "version": 0.943,
       "lastMigration": null
@@ -84,9 +84,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.348",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.5.2"
+    "systemVersion": "7.7.3"
   },
   "_id": "NAa1537jLii1129F",
   "sort": 0,

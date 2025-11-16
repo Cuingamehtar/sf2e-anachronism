@@ -19,7 +19,7 @@
       "remaster": true
     },
     "rules": [],
-    "slug": null,
+    "slug": "effect-follicle-germination",
     "traits": {
       "otherTags": [],
       "value": []
@@ -57,7 +57,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.2"
+    "systemVersion": "7.7.3"
   },
   "_id": "Bw1u0YIbG0ZV1CIR",
   "sort": 0,

@@ -38,7 +38,7 @@
         "value": "@item.flags.pf2e.rulesSelections.hp"
       }
     ],
-    "slug": null,
+    "slug": "effect-rally-the-troops",
     "traits": {
       "otherTags": [],
       "value": []
@@ -77,7 +77,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.2"
+    "systemVersion": "7.7.3"
   },
   "_id": "p2GrXbOJbv0OT4Zr",
   "sort": 1900000,

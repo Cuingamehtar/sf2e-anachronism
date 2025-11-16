@@ -8,7 +8,7 @@
       "value": "<p>This armor upgrade regulates heat, protecting you from extreme temperatures. You're protected from extreme cold and mild heat.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "thermal-capacitor-advanced",
     "_migration": {
       "version": 0.942,
       "lastMigration": null
@@ -81,9 +81,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.347",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.3.1"
+    "systemVersion": "7.7.3"
   },
   "_id": "P4807u23Ixo6Puat",
   "sort": 0,

@@ -8,7 +8,7 @@
       "value": "<p><strong>Activate</strong> <span class=\"pf2-icon\">f</span> (concentrate)</p><p><strong>Trigger</strong> You deal damage to a creature with the weapon.</p><hr /><p>This electric-blue crystal crackles with energy. When you activate the shockshard, the target must succeed at a @Check[fortitude|dc:29] save or become @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2} for 1 minute. If the target has the tech trait, it instead becomes @UUID[Compendium.sf2e-anachronism.conditions.Item.6A2QDy8wRGCVQsSd]{Glitching 2}.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "crystallized-shockshard-elite",
     "_migration": {
       "version": 0.94,
       "lastMigration": null
@@ -82,8 +82,8 @@
     "usage": {
       "value": "other"
     },
-    "stackGroup": null,
-    "spell": null
+    "spell": null,
+    "stackGroup": null
   },
   "_id": "NrP9WazrcBuJfjxR",
   "img": "icons/commodities/gems/gem-faceted-cushion-teal-black.webp",
@@ -98,9 +98,9 @@
     "compendiumSource": "Item.Ej2DSnV9xHi94PM7",
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.346",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.2.3"
+    "systemVersion": "7.7.3"
   },
   "_key": "!items!NrP9WazrcBuJfjxR"
 }

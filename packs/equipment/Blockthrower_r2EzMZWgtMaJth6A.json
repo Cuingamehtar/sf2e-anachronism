@@ -9,7 +9,7 @@
       "value": "<p>Salvaged from the set of Sabotage Soufflé (a popular cooking competition), these frosty weapons draw liquid from a tank through hypercooling coils to quickly generate gigantic blocks of ice that can be slung at high velocity toward their targets.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "commercial-blockthrower",
     "_migration": {
       "version": 0.943,
       "lastMigration": null
@@ -94,6 +94,7 @@
     },
     "range": 20,
     "expend": 5,
+    "ammo": null,
     "reload": {
       "value": "2"
     },
@@ -118,9 +119,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.348",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.5.1"
+    "systemVersion": "7.7.3"
   },
   "_key": "!items!r2EzMZWgtMaJth6A"
 }

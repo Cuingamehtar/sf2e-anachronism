@@ -51,7 +51,7 @@
         "text": "SF2E.NPCAbility.AeonGuard.Trooper.CoordinatedFire.Note"
       }
     ],
-    "slug": null,
+    "slug": "effect-coordinated-fire",
     "traits": {
       "otherTags": [],
       "value": []
@@ -90,7 +90,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.2"
+    "systemVersion": "7.7.3"
   },
   "_id": "x9nA4lIcHmE7x8Tt",
   "sort": 2200000,

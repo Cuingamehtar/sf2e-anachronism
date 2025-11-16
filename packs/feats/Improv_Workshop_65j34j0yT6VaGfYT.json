@@ -35,7 +35,7 @@
         "uuid": "Compendium.sf2e-anachronism.actions.Item.QQSO7DzeNKCWf9XW"
       }
     ],
-    "slug": null,
+    "slug": "improv-workshop",
     "_migration": {
       "version": 0.943,
       "previous": {
@@ -74,9 +74,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.348",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.5.1"
+    "systemVersion": "7.7.3"
   },
   "_key": "!items!65j34j0yT6VaGfYT"
 }

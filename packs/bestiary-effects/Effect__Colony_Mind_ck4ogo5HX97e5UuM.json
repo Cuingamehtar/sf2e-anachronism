@@ -29,7 +29,7 @@
         ]
       }
     ],
-    "slug": null,
+    "slug": "effect-colony-mind",
     "traits": {
       "otherTags": [],
       "value": []
@@ -70,7 +70,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.2"
+    "systemVersion": "7.7.3"
   },
   "_key": "!items!ck4ogo5HX97e5UuM"
 }

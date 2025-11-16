@@ -31,7 +31,7 @@
         "type": "status"
       }
     ],
-    "slug": null,
+    "slug": "effect-drop-tail",
     "traits": {
       "otherTags": [],
       "value": []
@@ -67,9 +67,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.346",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.2.3"
+    "systemVersion": "7.7.3"
   },
   "_id": "MZzCPh8IHQwe4xP3",
   "sort": 0,

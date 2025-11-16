@@ -36,7 +36,7 @@
         "type": "status"
       }
     ],
-    "slug": null,
+    "slug": "effect-gremlins-gift",
     "traits": {
       "otherTags": [],
       "value": []
@@ -74,7 +74,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.2"
+    "systemVersion": "7.7.3"
   },
   "_id": "1uk1rvqSP0S2HfVG",
   "sort": 900000,

@@ -24,7 +24,7 @@
         "value": "@actor.flags.pf2e.revertTempHP"
       }
     ],
-    "slug": null,
+    "slug": "effect-revert",
     "traits": {
       "otherTags": [],
       "value": []
@@ -62,7 +62,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.2"
+    "systemVersion": "7.7.3"
   },
   "_id": "ayrgURELCK5rhnna",
   "sort": 1500000,

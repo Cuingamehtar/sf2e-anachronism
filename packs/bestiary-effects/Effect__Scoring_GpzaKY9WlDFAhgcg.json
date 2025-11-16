@@ -47,7 +47,7 @@
         "value": "razing"
       }
     ],
-    "slug": null,
+    "slug": "effect-scoring",
     "traits": {
       "otherTags": [],
       "value": []
@@ -85,7 +85,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.2"
+    "systemVersion": "7.7.3"
   },
   "_id": "GpzaKY9WlDFAhgcg",
   "sort": 1400000,

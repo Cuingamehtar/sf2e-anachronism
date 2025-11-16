@@ -9,7 +9,7 @@
       "value": "<p>Tiny pneumatic pistons hidden inside these ornate dental veneers turn them into deadly weapons. Pioneered by the undead media mogul Zo! for celebrities who need to stay armed and fashionable at all times, ivory chompers provide a last-ditch biting attack against attackers. Special designer versions incorporate custom monogrammed imprints, jewels, and metal plating for the ultimate smile.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "commercial-ivory-chompers",
     "_migration": {
       "version": 0.943,
       "lastMigration": null
@@ -93,6 +93,7 @@
     },
     "range": null,
     "expend": null,
+    "ammo": null,
     "reload": {
       "value": null
     },
@@ -117,9 +118,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.348",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.5.1"
+    "systemVersion": "7.7.3"
   },
   "_key": "!items!dSBaVgdksA6zDfWZ"
 }

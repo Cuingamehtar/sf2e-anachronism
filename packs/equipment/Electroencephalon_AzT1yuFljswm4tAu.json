@@ -9,7 +9,7 @@
       "value": "<p>When a necrovite is destroyed, their <em>electroencephalon</em> begins rebuilding their physical form over the next 1d10 days. Not even disintegrating a necrovite's corpse can fully destroy the creature. The necrovite's new body manifests next to the <em>electroencephalon</em>, fully healed but without any equipment from their old body.</p><p>A standard <em>electroencephalon</em> is a piece of complex magitech about the size of a comm unit that has been constructed via occult means. This device typically has Hardness 10 and 40 HP.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "electroencephalon",
     "_migration": {
       "version": 0.946,
       "lastMigration": null,
@@ -94,7 +94,7 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.6.2"
+    "systemVersion": "7.7.3"
   },
   "_id": "AzT1yuFljswm4tAu",
   "sort": 0,

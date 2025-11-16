@@ -18,7 +18,7 @@
         ]
       }
     ],
-    "slug": null,
+    "slug": "great-absalom-relay-medal",
     "_migration": {
       "version": 0.942,
       "lastMigration": null
@@ -96,9 +96,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.348",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.4.3"
+    "systemVersion": "7.7.3"
   },
   "_id": "QGV4NiKDCHYOK5Dj",
   "sort": 5900000,

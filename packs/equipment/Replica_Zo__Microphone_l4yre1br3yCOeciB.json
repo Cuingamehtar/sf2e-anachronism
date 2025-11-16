@@ -9,7 +9,7 @@
       "value": "<p><strong>Upgrades</strong> 1</p><hr /><p>This ornate replica of the undead superstar's iconic microphone is an officially licensed Zo! Media product. Zo!'s microphone is rumored to be a bone scepter upgraded with the latest technologies to amplify Zo!'s voice for blasting enemies or unruly fans. The replica version possesses similar capabilities and can be used as a professional microphone or a weapon.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "commercial-replica-zo-microphone",
     "_migration": {
       "version": 0.943,
       "lastMigration": null
@@ -95,6 +95,7 @@
     },
     "range": 30,
     "expend": 5,
+    "ammo": null,
     "reload": {
       "value": "1"
     },
@@ -119,9 +120,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.348",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.5.1"
+    "systemVersion": "7.7.3"
   },
   "_key": "!items!l4yre1br3yCOeciB"
 }

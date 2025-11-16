@@ -27,7 +27,7 @@
         "removeAfterRoll": true
       }
     ],
-    "slug": null,
+    "slug": "effect-assistive-shove",
     "traits": {
       "otherTags": [],
       "value": []
@@ -63,9 +63,9 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.346",
+    "coreVersion": "13.350",
     "systemId": "pf2e",
-    "systemVersion": "7.2.3"
+    "systemVersion": "7.7.3"
   },
   "_id": "Gt6n0nYxHlPSmWVH",
   "sort": 0,
